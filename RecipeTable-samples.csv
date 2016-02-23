@@ -1,0 +1,5 @@
+[{"name":"Mushroom Risotto", "detail":"99 min", "imageFile":"mushroom_risotto.jpg", "id":1},
+ {"name":"Egg Benedict", "detail":"30 min", "imageFile":"egg_benedict.jpg", "id":2},
+ {"name":"Full Breakfast", "detail":"20 min", "imageFile":"ull_breakfast.jpg", "id":3},
+ {"name":"Hamburger", "detail":"1313 min", "imageFile":"hamburger.jpg", "id":4},
+ {"name":"Ham and Egg Sandwich", "detail":"10 min", "imageFile":"ham_and_egg_sandwich.jpg", "id":5}]

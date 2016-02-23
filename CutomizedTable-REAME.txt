@@ -1,0 +1,7 @@
+README:
+02/22/2016
+
+1-This code is for getting details from MYSQL Database, using JSON and adding all information in TableView Format, showing where is Image , details or Name.
+2-There is a recipe.php file that corresponds to the Json display details getting resultSet from Database Connection.
+3-RecipeTable-samples.csv is just an example of the table(columns) and its content.
+ 
